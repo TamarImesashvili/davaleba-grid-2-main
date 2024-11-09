@@ -1,0 +1,152 @@
+@font-face {
+    font-family: Mulish;
+    src: url(fonts/Mulish-SemiBold.ttf);
+}
+
+.custom-card {
+    box-shadow: 0px 1px 50px 0px #00000014;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10.5px;
+}
+
+
+.icon {
+    width: 58px;
+    height: 58px;
+    top: 20px;
+    left: 20px;
+    gap: 0px;
+    border-radius: 12px;
+    background: #F8DEBD;
+}
+.icon-1 {
+    width: 58px;
+    height: 58px;
+    top: 20px;
+    left: 20px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #FBF0F3;
+}
+.icon-2 {
+    width: 58px;
+    height: 58px;
+    top: 20px;
+    left: 20px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #D0FBFF;
+}
+.icon-3 {
+    width: 58px;
+    height: 58px;
+    top: 20px;
+    left: 20px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #F8BDBD;
+}
+.custom-card h2 {
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20.08px;
+    text-align: left;
+    padding-left: 3px;
+}
+.number {
+    font-family: Mulish;
+    font-weight: 400;
+    line-height: 40.16px;
+    text-align: left;
+    font-size: 32px;
+}
+.mg {
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: left;
+    line-height: 20.08px;
+    color: rgba(129, 129, 129, 1);
+
+}
+.icon1 {
+    width: 58px;
+    height: 23px;
+    top: 146px;
+    left: 20px;
+    padding: 4px 8px 4px 8px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #F8DEBD;
+    border-radius: 12px;
+}
+.text{
+    font-family: Mulish;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15.06px;
+    text-align: center;
+}
+.diagram {
+    height: 83.22px;
+    top: 168.28px;
+    left: 20px;
+    gap: 0px;
+    border: 1px;
+    opacity: 0px;
+}
+.icon2 {
+    background: #FBF0F3;
+    width: 58px;
+    height: 23px;
+    top: 146px;
+    left: 20px;
+    padding: 4px 8px 4px 8px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 12px;
+}
+.icon3 {
+    width: 58px;
+    height: 23px;
+    top: 20px;
+    left: 383px;
+    gap: 0px;
+    border-radius: 12px;
+    background: #D0FBFF;
+
+}
+
+.icon4 {
+    width: 58px;
+    height: 23px;
+    top: 146px;
+    left: 20px;
+    padding: 4px 8px 4px 8px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 12px;
+    background: #D0FBFF;
+}
+.icon5 {
+    width: 58px;
+    height: 23px;
+    top: 146px;
+    left: 20px;
+    padding: 4px 8px 4px 8px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 12px;
+    background: #F8BDBD;
+
+}
